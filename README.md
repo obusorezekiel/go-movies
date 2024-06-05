@@ -1,7 +1,3 @@
-Sure! Below is a detailed `README.md` file for the project.
-
----
-
 # Movie API
 
 This project is a simple RESTful API for managing a collection of movies. It allows you to perform basic CRUD (Create, Read, Update, Delete) operations on a movie database. The API is built using Go and the Gorilla Mux router.
